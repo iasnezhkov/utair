@@ -1,0 +1,30 @@
+[
+  {
+    "full_name": "Ilia Snezhkov",
+    "email": "iseption@gmail.com",
+    "password": "test",
+    "card_number": 1337,
+    "roles": [
+      "user",
+      "service"
+    ]
+  },
+  {
+    "full_name": "Some Test User",
+    "email": "user@test.test",
+    "password": "user",
+    "card_number": 1111,
+    "roles": [
+      "user"
+    ]
+  },
+  {
+    "full_name": "Some Test Service",
+    "email": "service@test.test",
+    "password": "service",
+    "card_number": 1112,
+    "roles": [
+      "service"
+    ]
+  }
+]
